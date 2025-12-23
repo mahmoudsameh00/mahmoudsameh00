@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Hello,%20I'm%20Mahmoud%20Sameh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20Computer%20Vision%20Specialist&descAlignY=55&descAlign=50" alt="Header" />
-</div>
 
-<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hello,+I'm+Mahmoud+Sameh;AI+Engineer+%7C+LLM+Developer;Computer+Vision+Specialist;Open+to+Research+Opportunities+in+Germany" alt="Typing SVG" />
+
+  <br/>
 
   <a href="mailto:mahmoudeletriby84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
