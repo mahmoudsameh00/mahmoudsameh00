@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="mahmoudeletriby84@gmail.com">
+  <a href="mailto:mahmoudeletriby84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-eletreby-6900a623a ">
@@ -29,7 +29,7 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Skills
 
 | **Domain** | **Technologies & Tools** |
 | :--- | :--- |
@@ -59,10 +59,10 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Autonomous Maze-Solving Vehicle** | A self-driving vehicle capable of navigating complex mazes independently. | *Computer Vision, Robotics, C++* |
-| **Arabic Sign Language Translator** | A real-time system translating sign language gestures into text/speech. | *Deep Learning, OpenCV, Python* |
-| **Movie Recommendation System** | A personalized recommendation engine based on user viewing habits. | *Machine Learning, Data Analysis* |
-| **FIFA 19 Comprehensive Analysis** | In-depth data analysis and visualization of player stats and trends. | *Data Visualization, Python* |
+| **[Autonomous Maze-Solving Vehicle]** | An autonomous robot utilizing a **Proportional Control System (PID-lite)** for real-time trajectory error correction and dynamic wall detection. | *C++, Arduino, Embedded Systems* |
+| **[Arabic Sign Language Translator]** | Real-time translator using **Stacked LSTMs** for gesture recognition and **Qwen 2.5 LLM** for grammar correction and gender-aware conjugation. | *TensorFlow, MediaPipe, Qwen AI, OpenCV* |
+| **[Hybrid AI Movie Recommendation]** | A hybrid engine combining **Autoencoders** (tabular data) and **SBERT** (plots) with **FAISS** for ultra-fast semantic search and retrieval. | *TensorFlow, FAISS, Streamlit, SBERT* |
+| **[FIFA 19 Comprehensive Analysis]** | In-depth data analysis and visualization of player stats and trends. | *Data Visualization, Python* |
 
 ---
 
