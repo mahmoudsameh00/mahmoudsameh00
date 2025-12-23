@@ -20,9 +20,9 @@
 
 ### 👨‍💻 About Me
 
-I am an enthusiastic **Artificial Intelligence Engineer** and **LLM Developer** with a passion for building intelligent systems. My expertise spans Natural Language Processing (NLP), Computer Vision, and autonomous systems. 
+I am an **Artificial Intelligence Engineer** and **data scientist** with a passion for building intelligent systems. My expertise spans Natural Language Processing (NLP), Computer Vision, and autonomous systems. 
 
-* 🔭 I’m currently working as a **LLM Developer at G2i**, focusing on RLHF, prompt engineering, and model evaluation.
+* 🔭 I worked as a **LLM Developer at G2i**, focusing on RLHF, prompt engineering, and model evaluation.
 * 🎓 I hold a **Bachelor's degree in Artificial Intelligence** from Kafr El-Sheikh University (Grade: Very Good).
 * 💼 I have **3+ years of experience** as a Freelance Deep Learning Engineer.
 * 🚀 **Goal:** I am actively seeking to pursue a **Master's degree in Germany** to contribute to innovative research in AI-driven technologies.
@@ -60,7 +60,7 @@ I am an enthusiastic **Artificial Intelligence Engineer** and **LLM Developer** 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Autonomous Maze-Solving Vehicle** | A self-driving vehicle capable of navigating complex mazes independently. | *Computer Vision, Robotics, C++* |
-| **Sign Language Translator** | A real-time system translating sign language gestures into text/speech. | *Deep Learning, OpenCV, Python* |
+| **Arabic Sign Language Translator** | A real-time system translating sign language gestures into text/speech. | *Deep Learning, OpenCV, Python* |
 | **Movie Recommendation System** | A personalized recommendation engine based on user viewing habits. | *Machine Learning, Data Analysis* |
 | **FIFA 19 Comprehensive Analysis** | In-depth data analysis and visualization of player stats and trends. | *Data Visualization, Python* |
 
