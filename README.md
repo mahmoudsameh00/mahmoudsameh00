@@ -81,6 +81,6 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsameh00&layout=compact&theme=radical&hide_border=true&v=2" height="180" alt="languages graph" />
 </div>
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mahmoudsameh00&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsameh00&theme=radical&hide_border=true" height="180" alt="streak stats" />
 </div>
