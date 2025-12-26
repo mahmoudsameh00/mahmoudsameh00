@@ -77,7 +77,7 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 
 
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsameh00&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
 
@@ -90,4 +90,19 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 
   <img src="https://komarev.com/ghpvc/?username=mahmoudsameh00&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
 
+</div> -->
+
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsameh00&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudsameh00&theme=radical&no-frame=true&margin-w=15" alt="trophies" />
+</div>
+
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mahmoudsameh00&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
 </div>
