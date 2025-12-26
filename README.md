@@ -76,8 +76,9 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsameh00&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsameh00&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsameh00&show_icons=true&theme=radical&hide_border=true&v=2" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsameh00&layout=compact&theme=radical&hide_border=true&v=2" height="180" alt="languages graph" />
 </div>
 
 <div align="center"> 
