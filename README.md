@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I am an **Artificial Intelligence Engineer** and **data scientist** with a passion for building intelligent systems. My expertise spans Natural Language Processing (NLP), Computer Vision, and autonomous systems. 
+I am an **Artificial Intelligence Engineer** and **Data Scientist** with a passion for building intelligent systems. My expertise spans Natural Language Processing (NLP), Computer Vision, and autonomous systems. 
 
 * 🔭 I worked as a **LLM Developer at G2i**, focusing on RLHF, prompt engineering, and model evaluation.
 * 🎓 I hold a **Bachelor's degree in Artificial Intelligence** from Kafr El-Sheikh University (Grade: Very Good).
@@ -36,7 +36,7 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED7D31?style=flat&logo=mathworks&logoColor=white) |
 | **AI & Vision** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00BFFF?style=flat&logo=google&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
 | **LLM & NLP** | ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat&logo=meta&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen_2.5-654FF0?style=flat) ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-4B0082?style=flat) |
-| **Data & Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=flat&logo=beautifulsoup&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+| **Data & Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 
 ---
 
@@ -59,10 +59,10 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Autonomous Maze-Solving Vehicle]** | An autonomous robot utilizing a **Proportional Control System (PID-lite)** for real-time trajectory error correction and dynamic wall detection. | *C++, Arduino, Embedded Systems* |
+| **[FIFA 19 Strategic Analysis]** | A strategic decision-support system utilizing **KNN** for algorithmic scouting and **Random Forest** for automated player valuation, integrated with interactive **Tableau** dashboards. | *Python, Scikit-Learn, Tableau, Pandas* |
 | **[Arabic Sign Language Translator]** | Real-time translator using **Stacked LSTMs** for gesture recognition and **Qwen 2.5 LLM** for grammar correction and gender-aware conjugation. | *TensorFlow, MediaPipe, Qwen AI, OpenCV* |
 | **[Hybrid AI Movie Recommendation]** | A hybrid engine combining **Autoencoders** (tabular data) and **SBERT** (plots) with **FAISS** for ultra-fast semantic search and retrieval. | *TensorFlow, FAISS, Streamlit, SBERT* |
-| **[FIFA 19 Comprehensive Analysis]** | In-depth data analysis and visualization of player stats and trends. | *Data Visualization, Python* |
+| **[Autonomous Maze-Solving Vehicle]** | An autonomous robot utilizing a **Proportional Control System (PID-lite)** for real-time trajectory error correction and dynamic wall detection. | *C++, Arduino, Embedded Systems* |
 
 ---
 
@@ -75,7 +75,6 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 
 ### 📊 GitHub Stats
 
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsameh00&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
@@ -84,11 +83,8 @@ I am an **Artificial Intelligence Engineer** and **data scientist** with a passi
 
 </div>
 
-
 <div align="center"> 
 
   <img src="https://komarev.com/ghpvc/?username=mahmoudsameh00&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
 
 </div>
-
-
